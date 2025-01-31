@@ -1,30 +1,30 @@
-# Prework - *Name of App Here*
+# Prework - codePath Prework
 
-Submitted by: **Your Name Here**
+Submitted by: Ben Hamilton
 
-**Name of your app** is an app that... [TODO] 
+codePath Prework is an app that displays 3 labels of text and has a button to change the background color to a random color
 
-Time spent: **X** hours spent in total
+Time spent: 1 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [X] Users are see a screen with three labels and a button
+- [X] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+https://www.loom.com/share/1b7f8ebe05f34eb4bb4cbb04e8ebe236?sid=c1414248-e487-4de3-9851-fa60c1b1a76f
 
 ## App Brainstorming (Step 4)
+- Explore other features
+- Add different UI elements
+- Manipulate text to make it more interesting.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
+Swift seems pretty straightforward, but I'm not very familiar with xcode.
 ## License
 
     Copyright [yyyy] [name of copyright owner]
